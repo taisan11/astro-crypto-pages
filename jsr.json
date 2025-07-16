@@ -1,0 +1,9 @@
+{
+    "$schema": "https://jsr.io/schema/config-file.v1.json",
+    "name": "taisan11/astro-crypto-pages",
+    "description": "A simple Astro project with encrypted content integration.",
+    "version": "0.1.0",
+    "exports":{
+        ".": "./index.ts"
+    }
+}
