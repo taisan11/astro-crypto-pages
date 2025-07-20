@@ -4,8 +4,7 @@
     "description": "A simple Astro project with encrypted content integration.",
     "version": "0.1.1",
     "exports":{
-        ".": "./index.ts",
-        "./Encrypted.astro": "./Encrypted.astro"
+        ".": "./index.ts"
     },
     "license":"MIT"
 }
